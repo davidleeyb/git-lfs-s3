@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = https://mzl41hrt9e.execute-api.us-west-2.amazonaws.com/common
